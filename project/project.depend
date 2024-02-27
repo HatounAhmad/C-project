@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1694529132 source:c:\ha\project\games.cpp
+	"GAMES.h"
+
+1694529132 c:\ha\project\games.h
+
+1694563328 source:c:\ha\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<time.h>
+
+1694563328 source:d:\ha\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<time.h>
+
